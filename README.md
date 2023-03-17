@@ -1,5 +1,7 @@
 # IBM-Data-Science-Professional-Certificate
 
+There are 9 Courses in this Professional Certificate
+
 1. What is Data Science ?
 2. Open Source tools for Data Science
 3. Data Science Methodology
